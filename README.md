@@ -1,4 +1,4 @@
-👋 Hi, I’m @luciapeterlin
+👋 Hi, my name is Lucia.
 
 My journey as a Front End Developer began a year ago and since then I have been continuously learning new skills in web design and development.
 
