@@ -12,6 +12,6 @@ I have knowledge in HTML, CSS, JavaScript, React JS, Firebase, Bootstrap, Git / 
 
 💼 http://luciapeterlin.surge.sh
 
-👩🏻‍💻 https://www.linkedin.com/in/luciapeterlin
+👩🏻‍💻 www.linkedin.com/in/luciapeterlin
 
 📮 luciapeterlin@gmail.com 
