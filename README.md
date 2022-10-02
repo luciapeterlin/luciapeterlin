@@ -1,6 +1,6 @@
-👋 Hi, my name is Lucia.
+# 👋 Hi, my name is Lucia.
 
-My journey as a Front End Developer began 2 years ago and since then I have been continuously improving my skills in web design and development.
+My journey as a Front End Developer began 2 years ago and since then I have been continuously improving my skills.
 
 I consider myself a fast learner who is passionate about technology and new challenges.
 
