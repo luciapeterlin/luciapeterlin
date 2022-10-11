@@ -4,7 +4,7 @@ My journey as a Front End Developer began 2 years ago and since then I have been
 
 I consider myself a fast learner who is passionate about technology and new challenges.
 
-I have knowledge in HTML, CSS, JavaScript, JQuery, React JS, Firebase, Bootstrap, Git / GitHub & WordPress.
+I have knowledge in HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery, Firebase, Bootstrap, SASS & Git/GitHub.
 
 
 📫 Let's talk!
