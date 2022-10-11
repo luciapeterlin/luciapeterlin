@@ -12,6 +12,6 @@ I have knowledge in HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery,
 
 💼 http://luciapeterlin.surge.sh
 
-👩🏻‍💻 [www.linkedin.com/in/luciapeterlin]([https://www.linkedin.com/in/luciapeterlin/?locale=en_US](https://www.linkedin.com/in/luciapeterlin/?locale=en_US))
+👩🏻‍💻 [www.linkedin.com/in/luciapeterlin](https://www.linkedin.com/in/luciapeterlin/?locale=en_US)
 
 📮 luciapeterlin@gmail.com 
