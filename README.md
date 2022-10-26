@@ -7,11 +7,8 @@ I consider myself a fast learner who is passionate about technology and new chal
 Tech Stack: HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery, Firebase, Bootstrap, SASS & Git/GitHub/GitLab.
 
 
-📫 Let's talk!
-
-
 💼 http://luciapeterlin.surge.sh
 
 👩🏻‍💻 [www.linkedin.com/in/luciapeterlin](https://www.linkedin.com/in/luciapeterlin/?locale=en_US)
 
-📮 luciapeterlin@gmail.com 
+📫 luciapeterlin@gmail.com 
