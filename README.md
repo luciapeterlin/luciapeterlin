@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi, I’m Lucia 👋 
 
 My journey as a Front End Developer began 2 years ago and since then I have been continuously improving my skills.
 
