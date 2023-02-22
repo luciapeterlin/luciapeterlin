@@ -3,7 +3,7 @@ Hi👋! I’m Lucia, an enthusiastic Front End Developer with a passion for tech
 🧠 Technical Skills: HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery, Firebase, Bootstrap, SASS & Git/GitHub/GitLab.
 
 
-💼 http://luciapeterlin.surge.sh
+💼 http://lucia-peterlin.surge.sh
 
 👩🏻‍💻 [www.linkedin.com/in/luciapeterlin](https://www.linkedin.com/in/luciapeterlin/?locale=en_US)
 
