@@ -1,10 +1,8 @@
 ## Hi, I’m Lucia 👋 
 
-My journey as a Front End Developer began 2 years ago and since then I have been continuously improving my skills.
+Hi👋! I’m Lucia, an enthusiastic Front End Developer with a passion for technology and web design. My journey began 2 years ago and since then I have gained valuable hands-on experience building responsive websites using a combination of HTML, CSS and Javascript.
 
-I consider myself a fast learner who is passionate about technology and new challenges.
-
-Tech Stack: HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery, Firebase, Bootstrap, SASS & Git/GitHub/GitLab.
+🧠 Technical Skills: HTML5, CSS3, JavaScript ES6, React JS, React Native, JQuery, Firebase, Bootstrap, SASS & Git/GitHub/GitLab.
 
 
 💼 http://luciapeterlin.surge.sh
